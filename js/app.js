@@ -28,7 +28,7 @@ const showCoffees = () => {
 
   container.innerHTML = output;
 };
-
+*/
 document.addEventListener("DOMContentLoaded", showCoffees);
 
 if (navigator.serviceWorker) {
@@ -39,4 +39,3 @@ if (navigator.serviceWorker) {
       .catch(err => console.log("Service worker not registered"));
   });
 }
-*/
