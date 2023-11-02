@@ -1,5 +1,5 @@
 const container = document.querySelector(".container");
-
+/*
 const coffees = [
   { name: "Perspiciatis", image: "images/coffee1.jpg" },
   { name: "Voluptatem", image: "images/coffee2.jpg" },
@@ -39,3 +39,4 @@ if (navigator.serviceWorker) {
       .catch(err => console.log("Service worker not registered"));
   });
 }
+*/
